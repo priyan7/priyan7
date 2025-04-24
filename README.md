@@ -1,4 +1,4 @@
-# Priyan | @priyan7
+# Priyan | @priyanshu-saurabh
 
 🔧 **Electronics & Communication Engineering Undergraduate**  
 🎯 Aspiring **Analog & Mixed-Signal IC Designer** | Passionate about **Digital Design in ASIC**,  **Digital Signal Proessing** and **FPGA**
